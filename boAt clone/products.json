@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "name":" Airdopes 131 ",
+        "price": 899,
+        "image": "images1/airpods/1.jpg"
+    },
+    {
+        "id": 2,
+        "name":"Airdopes Atom 83 ",
+        "price": 999,
+        "image": "images1/airpods/2.jpg"
+    },
+    {
+        "id": 3,
+        "name":" Airdopes 141",
+        "price": 1139,
+        "image": "images1/airpods/3.jpg"
+    },
+    {
+        "id": 4,
+        "name":" Airdopes 148 ",
+        "price": 1549,
+        "image": "images1/airpods/4.jpg"
+    },
+    {
+        "id": 5,
+        "name":" Airdopes 163",
+        "price": 1099,
+        "image": "images1/airpods/5.jpg"
+    },
+    {
+        "id": 6,
+        "name":" Airdopes Ace ",
+        "price": 1299,
+        "image": "images1/airpods/6.jpg"
+    },
+    {
+        "id": 7,
+        "name":" Nirvana ion ANC",
+        "price": 2499,
+        "image": "images1/airpods/7.jpg"
+    },
+    {
+        "id": 8,
+        "name":" Immortal 111",
+        "price": 1399,
+        "image": "images1/airpods/8.jpg"
+    },
+    {
+        "id": 9,
+        "name":" Immortal 131",
+        "price": 1209,
+        "image": "images1/airpods/9.jpg"
+    },
+    {
+        "id": 10,
+        "name":" TRebel Airdopes 141",
+        "price": 1999,
+        "image": "images1/airpods/10.jpg"
+    }
+
+]
